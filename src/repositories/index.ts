@@ -1,0 +1,1 @@
+export { UserRepository } from './user.repository';//export를 통해 다른 파일에서 사용할 수 있도록 함.
