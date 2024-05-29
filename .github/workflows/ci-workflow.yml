@@ -2,7 +2,7 @@ name: ci-workflows
 
 on:
   push:
-    branches: ['main']
+    branches: ['master']
 
 env:
   DOCKER_IMAGE: ghcr.io/danbaram0420/DevKor_BEstudy
