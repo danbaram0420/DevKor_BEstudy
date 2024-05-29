@@ -5,7 +5,7 @@ on:
     branches: ['master']
 
 env:
-  DOCKER_IMAGE: ghcr.io/danbaram0420/DevKor_BEstudy
+  DOCKER_IMAGE: ghcr.io/danbaram0420/bestudy
   DOCKER_CONTAINER: bestudy
 
 jobs:
